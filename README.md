@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 ---
 
 ### 📕 Trabalhos Recentes
-- [Mirage](https://mirage-nu.vercel.app/)[(Repositório)](https://github.com/Kaioh95/mirage)
-- [My-Money](https://my-money-alpha.vercel.app/)[(Repositório)]([https://github.com/Kaioh95/mirage](https://github.com/Kaioh95/react-practice))
+- [Mirage](https://mirage-nu.vercel.app/)[ (Repositório)](https://github.com/Kaioh95/mirage)
+- [My-Money](https://my-money-alpha.vercel.app/)[ (Repositório)](https://github.com/Kaioh95/react-practice)
 - [Spotify Artists Network](https://medium.com/@kaioh95/spotify-artists-network-56465d73b02e)
 - [Ciência de Dados com dados georreferenciados](https://medium.com/@kaioh95/projeto-sobre-ci%C3%AAncia-de-dados-georreferenciados-5bd0d98d5456)
 - [NFL Retweet Network](https://kaioh95.github.io/NFL-Retweet-Network/gephiWorks/network/)
