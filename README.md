@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Fun fact: ...
 -->
 
-- 🌱 No momento, estou aprendendo um pouco sobre tecnologias em Blockchain, Desenvolvimento Mobile e Análise de Redes.
+- 🌱 No momento, estou aprendendo um pouco sobre tecnologias em Blockchain, Desenvolvimento FrontEnd e Typescrypt.
 - 🤔 Durante o meu processo de aprendizagem na universidade, fiquei bastante interessado em Ciência de Dados e Visão Computacional.
 - 💻 Ainda não tenho expriência no mercado de trabalho, mas tenho interesse em ingressar no meio(o quanto antes melhor hehe).
 - 😄 Fun fact: Quando estou em um projeto, não paro de pensar em formas de fazer melhorias e gosto de deixar tudo pronto no menor tempo possível. 
@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 ---
 
 ### 📕 Trabalhos Recentes
+- [Mirage](https://mirage-nu.vercel.app/)[(Repositório)](https://github.com/Kaioh95/mirage)
+- [My-Money](https://my-money-alpha.vercel.app/)[(Repositório)]([https://github.com/Kaioh95/mirage](https://github.com/Kaioh95/react-practice))
 - [Spotify Artists Network](https://medium.com/@kaioh95/spotify-artists-network-56465d73b02e)
 - [Ciência de Dados com dados georreferenciados](https://medium.com/@kaioh95/projeto-sobre-ci%C3%AAncia-de-dados-georreferenciados-5bd0d98d5456)
 - [NFL Retweet Network](https://kaioh95.github.io/NFL-Retweet-Network/gephiWorks/network/)
